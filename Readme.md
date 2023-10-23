@@ -45,7 +45,7 @@
   <tr>
     <td>Platforms</td>
     <td>
-      Deployment:  Vercel, Render
+      Deployment:  Unreal 3D, Unity 3D, Blender 3D
       <br>
       Operating Systems: Windows, GNU/Linux, macOS, Windows Subsystem for Linux
     </td>
