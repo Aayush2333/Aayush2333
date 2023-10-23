@@ -4,9 +4,9 @@
 
 ### My interests are
 
-- Web applications.
-- Desktop applications.
-- Backend and databases.
+- Game Developer.
+- Game Programmer.
+- Android developer.
 - Web scraping.
 - Reverse engineering.
 
@@ -16,21 +16,17 @@
   <tr>
     <td>Frameworks & Libraries</td>
     <td>
-      Flutter, Provider, Riverpod
+      Flutter, Machine Learning
       <br>
-      React.js, react-router-dom, Node.js, Next.js, express.js
-      <br>
-     Flask, MySQL, AppScript
-      <br>
-     Jetpack Compose, XML, Retrofit, Dagger Hilt.
+     Pandas,Numpy, MySQL, Matplot
     </td>
   </tr>
   <tr>
     <td>Programming Languages</td>
     <td>
-       C++
+       JAVA
       <br>
-      JavaScript, TypeScript
+      C#
       <br>
         <br>
       Python
@@ -41,7 +37,7 @@
     <td>
       Git, Github
       <br>
-      Visual Studio Code, Postman
+      Visual Studio Code
       <br>
       Android Studio
     </td>
