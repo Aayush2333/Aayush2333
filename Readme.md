@@ -1,5 +1,5 @@
 # Hi 👋, am Aayush:
-🔭 I’m currently working on Farmeasy project <br>🤝 I'm looking to collaborate on Maths related projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
+🔭 I’m currently working on Game project <br>🤝 I'm looking to collaborate on Maths related projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
 
 
 ### My interests are
